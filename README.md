@@ -45,7 +45,9 @@ Press **Next** on the screen — or the board's **BOOT** button — to move on.
 4. **Sending a frame.** How long one frame of balls takes to send.
 5. **A slower refresh**, sometimes. If a slower refresh would stop the tearing, it says
    so and lets you see test patterns at that speed before you decide. Slower can
-   flicker, so it's up to you.
+   flicker, so it's up to you. It may also offer a setting marked "Whole screen
+   tear-free too": that one is for sketches that animate the whole screen, like the
+   library's RasterFireRainSnow example.
 6. **The verdict**, then the balls. The sliders at the bottom set the number of balls
    and their speed.
 
